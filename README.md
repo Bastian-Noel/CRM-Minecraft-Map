@@ -8,14 +8,14 @@ Important :
 * Cette map fonctionne en 1.16.4.
 * Tout les joueur doivent être admin.
 * Liste des mode de jeux :
-  - 2  Joueur | sans équipe [fonctionnel]
-  - 3  Joueur | sans équipe [non-fonctionnel]
-  - 4  Joueur | avec équipe [non-fonctionnel]
-  - 4  Joueur | sans équipe [non-fonctionnel]
-  - 5  Joueur | sans équipe [non-fonctionnel]
-  - 6  Joueur | avec équipe [non-fonctionnel]
-  - 6  Joueur | sans équipe [non-fonctionnel]
-  - 8  Joueur | avec équipe [non-fonctionnel]
+  - 02 Joueur | sans équipe [fonctionnel]
+  - 03 Joueur | sans équipe [non-fonctionnel]
+  - 04 Joueur | avec équipe [non-fonctionnel]
+  - 04 Joueur | sans équipe [non-fonctionnel]
+  - 05 Joueur | sans équipe [non-fonctionnel]
+  - 06 Joueur | avec équipe [non-fonctionnel]
+  - 06 Joueur | sans équipe [non-fonctionnel]
+  - 08 Joueur | avec équipe [non-fonctionnel]
   - 10 Joueur | avec équipe [non-fonctionnel]
   
 Bug :
