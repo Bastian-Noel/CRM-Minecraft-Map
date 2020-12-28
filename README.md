@@ -3,6 +3,8 @@ CRM Cyteria Random Maze est une map Minecraft en développement. Cette map est d
 
 Version actuel : Beta2
 
+Description : Cette map est composée principalement d'un labirinthe qui se genere aleatoirement. Quand vous êtes bloqué, casser un mure avec la cisaille et tout le labirinthe se rechargera. Des outil pour afronter vos adversaires vous sont donner tout les 200 tick. Le but ? Casser le block de reaparition de votre adversaire, sans se faire casser le sien !
+
 Important :
 * Copier CRM dans le dossier "save" de votre ".minecraft" et decomprsez-le !
 * Cette map fonctionne en 1.16.4.
