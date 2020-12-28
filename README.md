@@ -1,5 +1,5 @@
 # CRM-Minecraft-Map
-CRM Cyteria Random Maze est une map Minecraft en développement. Cette map est développé par Bastooné en datapack.
+CRM Cyteria Random Maze est une map Minecraft en développement. Cette map est développé par Bastoon en datapack.
 
 Version actuel : Beta2
 
