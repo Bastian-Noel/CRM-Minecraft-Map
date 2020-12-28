@@ -4,6 +4,7 @@ CRM Cyteria Random Maze est une map Minecraft en développement. Cette map est d
 Version actuel : Beta2
 
 Important :
+* Copier CRM dans le dossier "save" de votre ".minecraft" et decomprsez-le !
 * Cette map fonctionne en 1.16.4.
 * Tout les joueur doivent être admin.
 * Liste des mode de jeux :
