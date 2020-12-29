@@ -1,11 +1,14 @@
 # CRM [Minecraft-Map] {En developement}
-CRM Cyteria Random Maze est une map Minecraft en développement. Cette map est développé par Bastoon en datapack.
+CRM Cyteria Random Maze est une map Minecraft, celle-ci est développé par Bastoon notament à l'aide de Datapack.
 
 Version actuel : Beta2
 
-Description : Cette map est composée principalement d'un labyrinthe qui se génère aléatoirement. Quand vous êtes bloqué, casser un mure avec la cisaille et tout le labyrinthe se rechargera. Des outil pour affronter vos adversaires vous sont donner tout les 200 tick. Le but ? Casser le block de réapparition de votre adversaire, sans se faire casser le sien !
+Description : Cette map est composée principalement d'un labyrinthe qui se génère aléatoirement.
+Quand vous êtes bloqué, cassez un mur avec la cisaille et tout le labyrinthe se rechargera. 
+Des outils pour affronter vos adversaires vous sont donner tout les 200 ticks. 
+Le but ??? => Casser le block de réapparition de votre adversaire, sans se faire casser le sien !
 
-Important :
+Instalation :
 * Copier CRM dans le dossier "save" de votre ".minecraft" et decomprsez-le !
 * Cette map fonctionne en 1.16.4.
 * Tout les joueur doivent être admin.
